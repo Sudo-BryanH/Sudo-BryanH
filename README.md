@@ -12,10 +12,15 @@ a portfolio of all my personal and academic projects.
 
 ## Completed Relevant Academic Courses
 
+###Year 1: 
 - CPSC 110 Computation, Programs and Programming
   - Learned to utilize design recipes (HtDF, HtDP) to build basic functions. Second half of the course had an emphasis on basic data structures, algorithms, and recursion
+- CPSC 121 Models of Computation
+  - Learned to write logical arguments, eventually used for proofs and building simple circuits. Basic introduction to asymptotic analysis, DFAs and regex.  
 - CPSC 210 Software Construction
   - Learned the basics of Object Oriented Programming using Java. Useful topics include testing, inheritance, exceptions, and design patterns. 
+
+###Year 2:
 - CPSC 221 Introduction to Algorithms and Data Structures
   - Learned to employ and write various data structures (such as collections, trees and graphs) and algorithms (such as searching and sorting)
      with an emphasis on efficient time complexity and correctness. 
