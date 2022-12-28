@@ -5,7 +5,7 @@ Sudo-BryanH/Sudo-BryanH is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Bryan Hui's README page
+# Bryan Hui's introduction page
 
 Hello, my name is Bryan Hui. I am a second year student at the University of British Columbia pursuing a degree in computer science. This is 
 a portfolio of all my personal and academic projects. 
