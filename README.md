@@ -31,3 +31,5 @@ a portfolio of all my personal and academic projects.
 12/28/2022
 - Developing a program using C++
   - Some things I learned thus far are compiling using makefiles, writing and compiling tests and the inheritance system in C++
+
+- Familiarizing myself with git and utilizing version control
