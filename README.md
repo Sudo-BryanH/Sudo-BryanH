@@ -26,7 +26,7 @@ a portfolio of all my personal and academic projects.
      with an emphasis on efficient time complexity and correctness. 
 - CPSC 213 Introduction to Computer Systems (In Progress) 
 - CPSC 304 Introduction to Relational Databases (In Progress)
-- ECON 323 Quantitative Economic Modelling with Data Science Applications
+- ECON 323 Quantitative Economic Modelling with Data Science Applications (In Progress)
 
 
 ## Currently Learning
