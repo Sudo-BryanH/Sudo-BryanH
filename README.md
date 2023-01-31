@@ -24,6 +24,8 @@ a portfolio of all my personal and academic projects.
 - CPSC 221 Introduction to Algorithms and Data Structures
   - Learned to employ and write various data structures (such as collections, trees and graphs) and algorithms (such as searching and sorting)
      with an emphasis on efficient time complexity and correctness. 
+- CPSC 213 Introduction to Computer Systems (In Progress) 
+- CPSC 304 Introduction to Relational Databases (In Progress)
 
 
 ## Currently Learning
