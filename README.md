@@ -30,8 +30,13 @@ a portfolio of all my personal and academic projects.
 
 ## Currently Learning
 
+1/30/2022 
+- Practice using Python and Jupyter by implementing basic algorithms
+  - 1/30/2022 Partially implemented a gaussian elimination calculator
+
 12/28/2022
 - Developing a program using C++
   - Some things I learned thus far are compiling using makefiles, writing and compiling tests and the inheritance system in C++
+  - Working on a ride planner that utilizes the ideas of OOP, C++, and pointers 
 
 - Familiarizing myself with git and utilizing version control
