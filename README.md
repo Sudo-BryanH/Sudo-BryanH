@@ -24,9 +24,13 @@ a portfolio of all my personal and academic projects.
 - CPSC 221 Introduction to Algorithms and Data Structures
   - Learned to employ and write various data structures (such as collections, trees and graphs) and algorithms (such as searching and sorting)
      with an emphasis on efficient time complexity and correctness. 
-- CPSC 213 Introduction to Computer Systems (In Progress) 
-- CPSC 304 Introduction to Relational Databases (In Progress)
-- ECON 323 Quantitative Economic Modelling with Data Science Applications (In Progress)
+- CPSC 213 Introduction to Computer Systems 
+  - Learned how computers worked on a low level by learning to read, write and translate assembly code. I also learned how to write asynchronus and synchronus code by using threads, monitors, and semaphores. 
+- CPSC 304 Introduction to Relational Databases 
+  - Learned how to design a relational database. This includes the conceptual design (ER diagrams, schema, normalization) to writing queries (relational algebra, SQL), data warehousing and basic data mining.
+- ECON 323 Quantitative Economic Modelling with Data Science Applications 
+  - Learned the basics of Python, NumPy and scientific applications, Pandas, and some basic data science analysis methods such as regression, classification, and networks.
+
 
 
 ## Currently Learning
