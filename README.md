@@ -25,7 +25,7 @@ a portfolio of all my personal and academic projects.
   - Learned to employ and write various data structures (such as collections, trees and graphs) and algorithms (such as searching and sorting)
      with an emphasis on efficient time complexity and correctness. 
 - CPSC 213 Introduction to Computer Systems 
-  - Learned how computers worked on a low level by learning to read, write and translate assembly code. I also learned how to write asynchronus and synchronus code by using threads, monitors, and semaphores. 
+  - Learned how hardware and software worked together by reading, writing and translating between assembly language and C. Learned how to manage memory and how to write asynchronus and synchronus code by using threads, monitors, and semaphores while avoiding deadlock. 
 - CPSC 304 Introduction to Relational Databases 
   - Learned how to design a relational database. This includes the conceptual design (ER diagrams, schema, normalization) to writing queries (relational algebra, SQL), data warehousing and basic data mining.
 - ECON 323 Quantitative Economic Modelling with Data Science Applications 
