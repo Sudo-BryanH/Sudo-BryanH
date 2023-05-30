@@ -13,7 +13,13 @@ a portfolio of all my personal and academic projects.
 ## Personal Projects
 
 ### Volleyball Game
+[Volleyball Game Repo](https://github.com/Sudo-BryanH/Volleyball-Game)
+
 <img src="https://github.com/Sudo-BryanH/Sudo-BryanH/blob/main/Volleyball%20Game%20Demo.gif" width="240" height="300"/>
+
+This program reproduces a simple volleyball game. The player plays as a team against a programmed enemy team, deciding where players can go to defend and attack. Like in volleyball, players rotate, serve, and receive and a point is won for a team when the other team does not receive the ball.
+
+This game is written in Java using principles of object oriented programming and unit tested using JUnit 5.
 
 ## Completed Relevant Academic Courses
 
