@@ -7,8 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 # Bryan Hui's Introduction Page
 
-Hello, my name is Bryan Hui. I am a second year student at the University of British Columbia pursuing a degree in computer science. This is 
-a portfolio of all my personal and academic projects. 
+Hello, my name is Bryan Hui. I am a second year student at the University of British Columbia pursuing a bachelor's degree in computer science and minor in mathematics. This is a portfolio of all my personal and academic projects. 
 
 ## Personal Projects
 
