@@ -12,8 +12,7 @@ a portfolio of all my personal and academic projects.
 
 ## Personal Projects
 
-### Volleyball Game
-[Volleyball Game Repo](https://github.com/Sudo-BryanH/Volleyball-Game)
+### [Volleyball Game](https://github.com/Sudo-BryanH/Volleyball-Game)
 
 <img src="https://github.com/Sudo-BryanH/Sudo-BryanH/blob/main/Volleyball%20Game%20Demo.gif" width="240" height="300"/>
 
