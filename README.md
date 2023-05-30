@@ -10,6 +10,11 @@ You can click the Preview link to take a look at your changes.
 Hello, my name is Bryan Hui. I am a second year student at the University of British Columbia pursuing a degree in computer science. This is 
 a portfolio of all my personal and academic projects. 
 
+## Personal Projects
+
+### Volleyball Game
+<img src="https://github.com/Sudo-BryanH/Sudo-BryanH/blob/main/Volleyball%20Game%20Demo.gif" width="240" height="300"/>
+
 ## Completed Relevant Academic Courses
 
 ### Year 1: 
