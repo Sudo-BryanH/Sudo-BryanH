@@ -5,13 +5,17 @@ Sudo-BryanH/Sudo-BryanH is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+
 # Bryan Hui's Introduction Page
 
 Hello, my name is Bryan Hui. I am a second year student at the University of British Columbia pursuing a bachelor's degree in computer science and minor in mathematics. This is a portfolio of all my personal and academic projects. 
 
+### Contacts
+email: bryanh7@student.ubc.ca
+
 ## Personal Projects
 
-### [Volleyball Game](https://github.com/Sudo-BryanH/Volleyball-Game)
+## [Volleyball Game](https://github.com/Sudo-BryanH/Volleyball-Game)
 
 <img src="https://github.com/Sudo-BryanH/Sudo-BryanH/blob/main/Volleyball%20Game%20Demo.gif" width="240" height="300"/>
 
