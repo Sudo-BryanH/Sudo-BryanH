@@ -12,7 +12,10 @@ Hello, my name is Bryan Hui. I am a second year student at the University of Bri
 
 ### Contacts
 email: bryanh7@student.ubc.ca
+
 website: https://sudo-bryanh.github.io
+
+
 ## Completed Relevant Academic Courses
 
 ### Year 1: 
