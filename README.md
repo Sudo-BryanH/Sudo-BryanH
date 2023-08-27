@@ -12,17 +12,7 @@ Hello, my name is Bryan Hui. I am a second year student at the University of Bri
 
 ### Contacts
 email: bryanh7@student.ubc.ca
-
-## Personal Projects
-
-## [Volleyball Game](https://github.com/Sudo-BryanH/Volleyball-Game)
-
-<img src="https://github.com/Sudo-BryanH/Sudo-BryanH/blob/main/Volleyball%20Game%20Demo.gif" width="240" height="300"/>
-
-This program reproduces a simple volleyball game. The player plays as a team against a programmed enemy team, deciding where players can go to defend and attack. Like in volleyball, players rotate, serve, and receive and a point is won for a team when the other team does not receive the ball.
-
-This game is written in Java using principles of object oriented programming and unit tested using JUnit 5.
-
+website: https://sudo-bryanh.github.io
 ## Completed Relevant Academic Courses
 
 ### Year 1: 
@@ -45,16 +35,3 @@ This game is written in Java using principles of object oriented programming and
   - Learned the basics of Python, NumPy and scientific applications, Pandas, and some basic data science analysis methods such as regression, classification, and networks.
 
 
-
-## Currently Learning
-
-1/30/2022 
-- Practice using Python and Jupyter by implementing basic algorithms
-  - 1/30/2022 Partially implemented a gaussian elimination calculator
-
-12/28/2022
-- Developing a program using C++
-  - Some things I learned thus far are compiling using makefiles, writing and compiling tests and the inheritance system in C++
-  - Working on a ride planner that utilizes the ideas of OOP, C++, and pointers 
-
-- Familiarizing myself with git and utilizing version control
