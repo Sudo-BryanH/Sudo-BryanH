@@ -37,4 +37,10 @@ website: https://sudo-bryanh.github.io
 - ECON 323 Quantitative Economic Modelling with Data Science Applications 
   - Learned the basics of Python, NumPy and scientific applications, Pandas, and some basic data science analysis methods such as regression, classification, and networks.
 
-
+### Year 3: 
+- CPSC 314 Computer Graphics
+  - Learned about the projective rendering pipeline which takes 3D models and projects the final image onto a computer screen. Had hands on practice writing shader code.
+- CPSC 317 Introduction to Computer Networking
+  - Learned about the five OSI layers in computer networking: the application layer, transport layer, network layer, link layer, and physical layer. Had hands on practice writing server-client programs resembling abstractions and concepts such as email, TCP connections, and routers.
+- CPSC 322 Introduction to Artificial Intelligence
+-   - Learned about various problems AI can solve such as constraint satisfaction, path finding, planning, and how to solve each of them using methods such as search, and STRIPS planning.
