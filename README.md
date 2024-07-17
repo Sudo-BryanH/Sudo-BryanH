@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 Hello, my name is Bryan Hui. I am a third-year student at the University of British Columbia pursuing a Bachelor's degree in Computer Science and a minor in Mathematics. This is a portfolio showcasing all of my personal and academic projects.
 
 ### Contacts
-email: bryanh7@student.ubc.ca
+email: bryan.lh.hui@gmail.com
 
 website: https://sudo-bryanh.github.io
 
