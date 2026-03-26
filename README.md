@@ -6,41 +6,26 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Bryan Hui's Introduction Page
+# Bryan Hui
 
-Hello, my name is Bryan Hui. I am a third-year student at the University of British Columbia pursuing a Bachelor's degree in Computer Science and a minor in Mathematics. This is a portfolio showcasing all of my personal and academic projects.
+Hello, my name is Bryan. I am a fourth-year student at the University of British Columbia pursuing a Bachelor's degree in Computer Science and a minor in Mathematics. This is a portfolio showcasing all of my personal and academic projects.
 
-### Contacts
-email: bryan.lh.hui@gmail.com
+## About Me
+I am passionate about programming and learning about the 0s and 1s of how computers run and how the programs we develop have and can have a positive effect in the world. I have a diverse background where I've worked in backend systems, AI, cloud technologies, and testing. I have a diverse background spanning backend systems, AI, cloud technologies, and testing, having worked in the AI and defence industries where I made meaningful contributions at each company.
 
-website: https://sudo-bryanh.github.io
+### Technical Skills
+- Python
+- C++
+- Relational and non-relational databases
 
+### Experience
+- Development, containerization, and deployment of backend API systems
+- Design and development of full stack systems
+- Test dvelopment and bug fixes
+- QA testing
 
-## Completed Relevant Academic Courses
+## Contacts
+Email: bryan.lh.hui@gmail.com
 
-### Year 1: 
-- CPSC 110 Computation, Programs and Programming
-  - Learned to utilize design recipes (HtDF, HtDP) to build basic functions. Second half of the course had an emphasis on basic data structures, algorithms, and recursion
-- CPSC 121 Models of Computation
-  - Learned to write logical arguments, eventually used for proofs and building simple circuits. Basic introduction to memory, asymptotic analysis, DFAs and regex.  
-- CPSC 210 Software Construction
-  - Learned the basics of Object Oriented Programming using Java. Useful topics include testing, inheritance, exceptions, and design patterns. 
+Website: https://sudo-bryanh.github.io
 
-### Year 2:
-- CPSC 221 Introduction to Algorithms and Data Structures
-  - Learned to employ and write various data structures (such as collections, trees and graphs) and algorithms (such as searching and sorting)
-     with an emphasis on efficient time complexity and correctness. 
-- CPSC 213 Introduction to Computer Systems 
-  - Learned how hardware and software worked together by reading, writing and translating between assembly language and C. Learned how to manage memory and how to write asynchronus and synchronus code by using threads, monitors, and semaphores while avoiding deadlock. 
-- CPSC 304 Introduction to Relational Databases 
-  - Learned how to design a relational database. This includes the conceptual design (ER diagrams, schema, normalization) to writing queries (relational algebra, SQL), data warehousing and basic data mining.
-- ECON 323 Quantitative Economic Modelling with Data Science Applications 
-  - Learned the basics of Python, NumPy and scientific applications, Pandas, and some basic data science analysis methods such as regression, classification, and networks.
-
-### Year 3: 
-- CPSC 314 Computer Graphics
-  - Learned about the projective rendering pipeline which takes 3D models and projects the final image onto a computer screen. Had hands on practice writing shader code.
-- CPSC 317 Introduction to Computer Networking
-  - Learned about the five OSI layers in computer networking: the application layer, transport layer, network layer, link layer, and physical layer. Had hands on practice writing server-client programs resembling abstractions and concepts such as email, TCP connections, and routers.
-- CPSC 322 Introduction to Artificial Intelligence
--   - Learned about various problems AI can solve such as constraint satisfaction, path finding, planning, and how to solve each of them using methods such as search, and STRIPS planning.
