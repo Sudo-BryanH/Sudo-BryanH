@@ -12,7 +12,13 @@ Hello, my name is Bryan. I am a fourth-year student at the University of British
 
 I am passionate about programming and implmenting the 0s and 1s of the programs that have a positive impact in the world. I have a diverse background working in backend systems, AI, cloud technologies, and testing. I have a diverse background spanning backend systems, AI, cloud technologies, and testing, having worked in the AI and defence industries where I made meaningful contributions at each company.
 
-## Technical Skills and Experience
+## Technical Skills
+- Primary languages: Python, C++, Java, JavaScript/TypeScript, SQL
+- Frameworks: Electron, Node.js, JUnit, Catch2, MySQL
+- Libraries: NumPy, Pandas, OpenCV
+- Other technologies: Git/Github, Docker, Kubernetes, Github Actions, GDB, MongoDB, MySQL
+
+## Primary Experience
 - Development, containerization, and deployment of backend API systems
 - Design, development, and refactoring of full stack systems
 - Test dvelopment and bug fixes
@@ -20,6 +26,6 @@ I am passionate about programming and implmenting the 0s and 1s of the programs 
 
 ## Contacts
 Email: bryan.lh.hui@gmail.com
-
+Linkedin: https://www.linkedin.com/in/bryan-hui-4b8b3324b/
 Website: https://sudo-bryanh.github.io
 
