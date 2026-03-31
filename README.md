@@ -26,6 +26,8 @@ I am passionate about programming and implmenting the 0s and 1s of the programs 
 
 ## Contacts
 Email: bryan.lh.hui@gmail.com
+
 Linkedin: https://www.linkedin.com/in/bryan-hui-4b8b3324b/
-Website: https://sudo-bryanh.github.io
+
+Website: https://sudo-bryanh.github.io 
 
